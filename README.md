@@ -1,4 +1,4 @@
 # testowe_repo_testowe
-nanana
-lalala
-bbababab
+1. nanana
+2. lalala
+3. bbababab
